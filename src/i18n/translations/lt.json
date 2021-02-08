@@ -1,0 +1,9 @@
+{
+  "common": {
+    "mainHeaderText": "RPG Žaidimas - WIP",
+    "shopHeaderText": "Parduotuvė",
+    "cartHeaderText": "Krepšelis",
+    "charListHeaderText": "Herojų sąrašas",
+    "fightHeaderText": "Kova"
+  }
+}

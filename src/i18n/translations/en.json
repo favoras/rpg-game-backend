@@ -1,0 +1,9 @@
+{
+  "common": {
+    "mainHeaderText": "RPG Game - WIP",
+    "shopHeaderText": "Shop",
+    "cartHeaderText": "Cart",
+    "charListHeaderText": "Character List",
+    "fightHeaderText": "Fight"
+  }
+}
